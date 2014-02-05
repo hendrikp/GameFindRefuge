@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<config>
+	<gameCycleTime>50</gameCycleTime>
+	<gameSizeX>1000</gameSizeX>
+	<gameSizeY>600</gameSizeY>
+	<levelSafeZone>60</levelSafeZone>
+	<levelStartHouses>5</levelStartHouses>
+	<levelStartTrees>10</levelStartTrees>
+	<levelMinEnemys>20</levelMinEnemys>
+	<levelEnemyMultiplier>2</levelEnemyMultiplier><minCollisionArea>200</minCollisionArea>
+	<playerSpeed>3</playerSpeed>
+</config>
